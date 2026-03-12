@@ -303,6 +303,25 @@ body {
     color: white;
 }
 
+.map {
+    overflow: hidden;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    position: relative;
+    height: 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.map iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    filter: grayscale(20%) contrast(1.1); /* Subtle artistic touch */
+}
+
 footer { 
     background: #4B2E2E; 
     color: white; 

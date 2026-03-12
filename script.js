@@ -7,7 +7,7 @@ const menuData = [
     { name: "Crispy Chips", price: "100 Birr", category: "food", img: "images/chips.jpg" },
     { name: "Macaroni", price: "140 Birr", category: "food", img: "images/macaroni.jpg" },
     { name: "Cheeseburger Tripl Bacon", price: "385 Birr", category: "food", img: "images/burger-cc-triple-bacon.jpg" },
-    { name: "Simetic Food", price: "1180 Birr", category: "food", img: "images/foods.jpg" },
+    { name: "Totom Jelato Food", price: "1180 Birr", category: "food", img: "images/foods.jpg" },
     { name: "Cappuccino", price: "70 Birr", category: "coffee", img: "images/coffee-cappuccino.jpg" },
     { name: "Avocado Juice", price: "180 Birr", category: "drinks", img: "images/juice-avocado.jpg" },
     { name: "Beyaynet", price: "170 Birr", category: "food", img: "images/injera-beyaynet.jpg" },
