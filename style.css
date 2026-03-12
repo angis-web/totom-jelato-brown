@@ -62,6 +62,7 @@ body {
     text-align: center;
     padding: 80px 20px;
     background: url('images/totom-jelato-hero.png') no-repeat center center/cover;
+    background-attachment: fixed;
     color: white;
     min-height: 50vh;
     display: flex;
