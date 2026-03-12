@@ -222,6 +222,7 @@ body {
     align-items: center;
     flex-direction: column; 
     gap: 40px;
+    overflow: hidden;
     /* border: black solid 2px; */
 }
 
